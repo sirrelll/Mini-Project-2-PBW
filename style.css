@@ -1,0 +1,174 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #111111;
+color: #ffffff;
+scroll-behavior: smooth;
+}
+
+#navbar {
+background-color: #1a1a1a;
+border-bottom: 2px solid #ff6b00;
+}
+
+.navbar-brand {
+color: #ff6b00 !important;
+font-size: 1.3rem;
+}
+
+.nav-link {
+color: #cccccc !important;
+}
+
+.nav-link:hover {
+color: #ff6b00 !important;
+}
+
+#home {
+background-color: #111111;
+padding: 100px 0 60px 0;
+min-height: 100vh;
+display: flex;
+align-items: center;
+}
+
+.teks-halo {
+color: #ff6b00;
+font-size: 1.1rem;
+margin-bottom: 8px;
+}
+
+.nama-besar {
+font-size: 2.8rem;
+font-weight: bold;
+color: #ffffff;
+margin-bottom: 8px;
+}
+
+.jurusan-teks {
+color: #ff6b00;
+margin-bottom: 16px;
+}
+
+.deskripsi-teks {
+color: #aaaaaa;
+margin-bottom: 24px;
+max-width: 500px;
+}
+
+.foto-profil {
+width: 260px;
+height: 260px;
+border-radius: 50%;
+border: 4px solid #ff6b00;
+object-fit: cover;
+}
+
+.btn-oren {
+background-color: #ff6b00;
+color: #ffffff;
+border: none;
+padding: 10px 24px;
+border-radius: 6px;
+font-weight: bold;
+text-decoration: none;
+}
+
+.btn-oren:hover {
+background-color: #e05a00;
+color: #ffffff;
+}
+
+.btn-outline-oren {
+background-color: transparent;
+color: #ff6b00;
+border: 2px solid #ff6b00;
+padding: 10px 24px;
+border-radius: 6px;
+font-weight: bold;
+text-decoration: none;
+}
+
+.btn-outline-oren:hover {
+background-color: #ff6b00;
+color: #ffffff;
+}
+
+#about {
+background-color: #1a1a1a;
+padding: 70px 0;
+}
+
+.judul-section {
+font-size: 2rem;
+font-weight: bold;
+color: #ffffff;
+margin-bottom: 8px;
+}
+
+.judul-section::after {
+content: '';
+display: block;
+width: 50px;
+height: 3px;
+background-color: #ff6b00;
+margin: 8px auto 0;
+}
+
+.sub-judul {
+color: #888888;
+}
+
+.kartu-gelap {
+background-color: #222222;
+border: 1px solid #333333;
+border-radius: 8px;
+padding: 24px;
+color: #ffffff;
+transition: transform 0.2s;
+}
+
+.kartu-gelap:hover {
+transform: translateY(-4px);
+}
+
+.border-oren-kiri {
+border-left: 4px solid #ff6b00 !important;
+}
+
+.teks-abu {
+color: #aaaaaa;
+}
+
+.warna-oren {
+color: #ff6b00;
+}
+
+.garis {
+border-color: #333333;
+}
+
+.progress-bar {
+background-color: #ff6b00;
+}
+
+#certificates {
+background-color: #111111;
+padding: 70px 0;
+}
+
+.gambar-sertifikat {
+width: 100%;
+height: 200px;
+object-fit: fill;
+}
+
+footer {
+background-color: #1a1a1a;
+border-top: 2px solid #ff6b00;
+padding: 24px 0;
+color: #ffffff;
+}
+
+section {
+scroll-margin-top: 70px;
+}
