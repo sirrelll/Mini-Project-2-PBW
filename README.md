@@ -35,31 +35,31 @@ minpro2/
 
 ### Navbar
 Navbar ada di bagian paling atas halaman. Isinya nama dan tiga link buat pindah ke section Home, About Me, dan Certificates.
-<img width="1904" height="62" alt="Screenshot 2026-03-29 112614" src="https://github.com/user-attachments/assets/80cbb7df-aafe-40ed-9ccd-f75b484d87c6" />
+<img width="1904" height="62" alt="Screenshot 2026-03-29 112614" src="https://github.com/user-attachments/assets/7ea6d3fd-5d6a-448b-8f62-f6b144341855" />
 
 ---
 
 ### Section Home
 Bagian pertama yang muncul waktu buka website. Sebelah kiri ada nama, prodi, deskripsi singkat, dan dua tombol. Sebelah kanan ada foto profil yang dibuat bulat.
-<img width="1904" height="942" alt="Screenshot 2026-03-29 112620" src="https://github.com/user-attachments/assets/23c9a693-9413-4115-9baf-eb71b4e42d73" />
+<img width="1904" height="942" alt="Screenshot 2026-03-29 112620" src="https://github.com/user-attachments/assets/3a7a5b18-b7ab-4fa6-b5d9-5b6068f74990" />
 
 ---
 
 ### Section About Me
 Ada tiga bagian di sini. Kartu Info Diri berisi bio singkat sama info kontak. Kartu Skill menampilkan progress bar. Terus ada bagian Pengalaman yang isinya kartu-kartu pengalaman organisasi.
-<img width="1904" height="762" alt="Screenshot 2026-03-29 112629" src="https://github.com/user-attachments/assets/db2b85b9-b138-49e8-9c84-9bb46dea1814" />
+<img width="1904" height="762" alt="Screenshot 2026-03-29 112629" src="https://github.com/user-attachments/assets/24fd5dc3-c74c-497b-8383-2ca9c5512286" />
 
 ---
 
 ### Section Certificates
 Menampilkan daftar sertifikat dalam bentuk grid tiga kolom. Tiap kartu ada gambar sertifikat, judul, penerbit, sama tanggal atau tahun.
-<img width="1902" height="880" alt="Screenshot 2026-03-29 112635" src="https://github.com/user-attachments/assets/76ec8e3b-bcbf-442d-9b11-f4044e845e24" />
+<img width="1902" height="880" alt="Screenshot 2026-03-29 112635" src="https://github.com/user-attachments/assets/283af271-495c-4ecf-87cc-fb404a2dae6d" />
 
 ---
 
 ### Footer
 Bagian paling bawah. Isinya nama dan tulisan singkat.
-<img width="1898" height="93" alt="Screenshot 2026-03-29 112647" src="https://github.com/user-attachments/assets/1d8b5b8a-a427-4f46-b261-1db4567b0c77" />
+<img width="1898" height="93" alt="Screenshot 2026-03-29 112647" src="https://github.com/user-attachments/assets/374ea8db-b6b2-4589-9a3e-543b83209f03" />
 
 ---
 
