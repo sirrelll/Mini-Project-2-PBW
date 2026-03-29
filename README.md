@@ -26,7 +26,7 @@ minpro2/
 ├── Sertifikat.php    # Class untuk data sertifikat
 ├── style.css         # Styling tampilan
 ├── database.sql      # Script pembuatan tabel dan data
-└── ...               # File gambar
+└── img/               # File gambar
 ```
 
 ---
