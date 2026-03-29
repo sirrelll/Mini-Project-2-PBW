@@ -19,14 +19,14 @@ Website portofolio pribadi yang dibuat sebagai tugas Mini Project 2 Praktikum Pe
 
 ```
 minpro2/
-├── index.php         # Halaman utama
-├── koneksi.php       # Koneksi database
-├── Skill.php         # Class untuk data skill
-├── Pengalaman.php    # Class untuk data pengalaman
-├── Sertifikat.php    # Class untuk data sertifikat
-├── style.css         # Styling tampilan
-├── database.sql      # Script pembuatan tabel dan data
-└── img/               # File gambar
+├── index.php             # Halaman utama
+├── koneksi.php           # Koneksi database
+├── Skill.php             # Class untuk data skill
+├── Pengalaman.php        # Class untuk data pengalaman
+├── Sertifikat.php        # Class untuk data sertifikat
+├── style.css             # Styling tampilan
+├── db.minpropbw.sql      # Script pembuatan tabel dan data
+└── img/                  # File gambar
 ```
 
 ---
