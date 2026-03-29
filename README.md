@@ -1,6 +1,6 @@
 # Portfolio Website - Darel Prasetya Fawwaz
 
-Website portofolio pribadi yang dibuat sebagai tugas Praktikum Pemrograman Berbasis Web. Data ditampilkan secara dinamis menggunakan PHP dan MySQL.
+Website portofolio pribadi yang dibuat sebagai tugas Mini Project 2 Praktikum Pemrograman Berbasis Web. Data ditampilkan secara dinamis menggunakan PHP dan MySQL.
 
 ---
 
